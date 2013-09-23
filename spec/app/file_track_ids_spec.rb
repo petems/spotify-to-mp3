@@ -1,5 +1,6 @@
 require 'spotify_to_mp3'
 require 'tempfile'
+require 'spec_helper'
 
 module SpotifyToMp3
   describe App::FileTrackIds do
